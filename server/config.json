@@ -1,0 +1,14 @@
+{
+  "database": "spacedo",
+  "env": {
+    "production": {
+      "name": "production",
+      "host": "mongodb://alfonsodelosrios:google98@ds119078.mlab.com:19078"
+    },
+    "development": {
+      "name": "development",
+      "host": "mongodb://localhost:27017"
+    }
+  },
+  "JWT": "spaceDoShot"
+}
